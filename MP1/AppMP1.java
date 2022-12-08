@@ -1,3 +1,4 @@
+package MP1;
 public class AppMP1 //Le "driver" class
 {
     public static void main(String[] args) // Instantie les objets 

@@ -1,3 +1,4 @@
+package MP1;
 public class ObjetMP1
 {
     public String name; //Champ string
