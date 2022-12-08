@@ -1,7 +1,3 @@
-# Mini-projets
+# Mini-projects
 
-Courts programmes sommatifs.
-
->Les descriptions des tâches et la grille d'évaluation seront fournies via les Issues.
-
->Quand une tâche est complétée, fermer l'Issue appropriée.
+Short programs written to put to practice concepts such as Object-Oriented, encapsulation, ArrayLists, HashMaps, testing and debugging.
